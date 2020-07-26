@@ -1,0 +1,87 @@
+﻿Project Description
+-------------------------
+	
+Overview:
+-------------
+
+Topic :
+We propose to integrate machine learning, in the form of bots, into a fork of the Moodle project to create Mentor. 
+
+Motivation :
+As students at RMIT Online, we have been using a Virtual Learning Environment (VLE) called Canvas. We have examined the popular platforms in the VLE space. and our team believes that there is an opportunity to disrupt the status quo, improve student experience, and deliver better educational outcomes. 
+
+
+Landscape :
+Moodle, Canvas, Blackboard, Brightspace?
+
+
+Detailed Description :
+---------------------------
+
+We have a wish list of features for Mentor, but we are planning to implement a simple feature set at launch.
+These are:
+1.Support existing Moodle features and most extensions.
+2.An interactive chat bot that can discuss the users interests and help them choose an education pathway.
+3.Reduce the need for human tutors by training bots in pedagogical practise and supporting learners who need that extra bit of assistance to succeed.
+4.To support cohort and learn-at-your-own-pace education strategies.
+
+We have heard some anecdotal evidence which suggests that some students feel intimidated by lecturers and tutors. They have remarked that they would feel more comfortable interacting with a bot instead of a human tutor. According to data from Glass Door, university tutors earn around AUD$47 p/h, so there is an opportunity for education providers to reduce overheads by using well trained chat bots to interact with students.
+
+References
+
+Glass Door, University Tutor Salaries, viewed online 19 July 2020, <https://www.glassdoor.com.au/Salaries/university-tutor-salary-SRCH_KO0,16.htm>
+
+Aims :
+Do some development on the Moodle fork.
+Developing feature 2; The interactive chat bot. Collect a data set of courses from Open University, and train a bot to discuss educational options with a prospective student.
+
+
+Plans and Progress :
+????
+
+
+Roles at different times of project development:
+Project manager 
+Programmer with PHP experience, with development of Moodle desirable
+???
+
+
+
+Scope and Limits :
+Set priorities and accepting that there will be features that will take too long to develop. This means that it is important to set a scope for your project, as a means of ensuring that you make the most of the time available. For example, if you are developing a game, you might consider only producing one level and two or three characters, in order to show a proof-of-concept, rather than develop three levels and ten characters.
+
+
+Tools and Technologies :
+Moodle fork
+Google Cloud - Compute plus Storage
+Ubuntu LAMP
+ssh
+Eclipse for PHP
+
+
+Testing :
+How will your test your project? How will you know when you have succeeded?
+
+
+Timeframe :
+let us assume that you will have an extra 10 hours per week per person for 10 weeks in addition to this time in order to develop your project. This means that you will have six weeks (Weeks 7 to 12) of the semester to work on your assignment, with a further 10 weeks after that. This means that your plan will be for a total of 15 weeks, with the first 6 being on this assignment.
+
+
+Risks :
+What risks can you identify for your project? Do not include generic risks 
+
+
+Group Processes and Communications :
+How will your group communicate? How often will meetings take place? Will these be face-to -face, or using technologies such as Skype? Or Facebook? Or email? Or text? Or ... ??
+
+
+Skills and Jobs:
+---------------------
+Budget for 6 months?
+Project manager 
+Programmer with PHP experience, with development of Moodle desirable
+???
+
+
+Group Reflection :
+-----------------------
